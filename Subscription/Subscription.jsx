@@ -1,7 +1,7 @@
 import React from "react";
 import { TiTick } from "react-icons/ti";
 
-//INTERNAL IMPORT
+//INTERNAL IMPORT //
 import Style from "../Subscription/Subscription.module.css";
 import { Button } from "../components/componentsindex.js";
 
